@@ -2,7 +2,7 @@
 var assert = require('assert')
 var express = require('..')
 var request = require('supertest')
-// hello
+// hell
 describe('app', function(){
   it('should inherit from event emitter', function(done){
     var app = express();
